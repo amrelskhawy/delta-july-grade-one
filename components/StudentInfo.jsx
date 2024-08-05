@@ -142,8 +142,8 @@ export default function StudentInfo({ student }) {
               الترمنولوجى ( E )
             </TableCell>
             <TableCell className="text-center">
-              <Chip className="text-white font-bold" color={getColor(E, 15)}>
-                {getStatus(E, 15)}
+              <Chip className="text-white font-bold" color={getColor(E, 30)}>
+                {getStatus(E, 30)}
               </Chip>
             </TableCell>
             <TableCell className="text-center">30</TableCell>
