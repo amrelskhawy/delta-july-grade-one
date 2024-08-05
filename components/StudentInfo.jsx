@@ -160,7 +160,7 @@ export default function StudentInfo({ student }) {
 
             </TableCell>
             <TableCell className="text-center">
-              130
+              170
             </TableCell>
           </TableRow>
           <TableRow key="5">
